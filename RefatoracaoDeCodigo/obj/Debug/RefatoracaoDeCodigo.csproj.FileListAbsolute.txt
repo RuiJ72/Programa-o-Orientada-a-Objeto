@@ -1,0 +1,8 @@
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\bin\Debug\RefatoracaoDeCodigo.exe.config
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\bin\Debug\RefatoracaoDeCodigo.exe
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\bin\Debug\RefatoracaoDeCodigo.pdb
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\obj\Debug\RefatoracaoDeCodigo.csproj.AssemblyReference.cache
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\obj\Debug\RefatoracaoDeCodigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\obj\Debug\RefatoracaoDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\obj\Debug\RefatoracaoDeCodigo.exe
+C:\Users\Rui Lagos\Documents\Orientação a ObjetoRefatoração de código\RefatoracaoDeCodigo\RefatoracaoDeCodigo\obj\Debug\RefatoracaoDeCodigo.pdb
